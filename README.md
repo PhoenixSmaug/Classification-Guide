@@ -1,14 +1,14 @@
 # A Guide to Classification with Regression
 
-This repository should serve as a guide book for building classification models. Particular focus is given to reducing problems in real world data, like outliers, high levarage points and collinearity, which are often negelected in simpler guides. The main steps are:
+This repository should serve as a guide book for building classification models. Particular focus is given to reducing problems in real world data, like outliers, high leverage points and collinearity, which are often neglected in simpler guides. The main steps are:
 
 1) Preprocessing
     * Cleaning Data
-    * Outlier Detection and Removal
     * Collinearity Detection
 2) A priori Model
     * Full-dimensional Regression
     * Residual Plot Analysis
+    * Outlier Detection and Removal
 3) Optimization
     * Non-linear Parameters
     * Dimensionality Reduction
