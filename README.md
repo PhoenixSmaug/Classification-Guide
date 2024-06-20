@@ -11,10 +11,9 @@ This repository should serve as a guide book for building classification models.
     * Non-linear Parameters
 3) Optimization
     * Model Comparison
-    * Bias Specification
-4) Validation
-    * Cross-Validation
+    * Validation
+    * Bias Specification    
 
 As an illustrative example we will use the "Credit Card Fraud Detection" dataset published [here](https://www.kaggle.com/dsv/6492730), containing over 550,000 records of European cardholders in 2023. The analysis will be done using the Python library `scikit-learn` in a Jupyter notebook.
 
-(c) Mia Muessig
+(c) Mia Müßig
