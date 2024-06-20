@@ -7,16 +7,14 @@ This repository should serve as a guide book for building classification models.
     * Collinearity Detection
 2) A priori Model
     * Full-dimensional Regression
-    * Residual Plot Analysis
-    * Outlier Detection and Removal
-3) Optimization
-    * Non-linear Parameters
     * Dimensionality Reduction
-    * Model Comparision
+    * Non-linear Parameters
+3) Optimization
+    * Model Comparison
     * Bias Specification
 4) Validation
     * Cross-Validation
 
-As an illustrative example we will use the "Credit Card Fraud Detection" dataset published [here](https://www.kaggle.com/dsv/6492730), containing over 550.000 records of European cardholders in 2023. The analysis will be done using the Python library `scikit-learn` in a Jupyter notebook.
+As an illustrative example we will use the "Credit Card Fraud Detection" dataset published [here](https://www.kaggle.com/dsv/6492730), containing over 550,000 records of European cardholders in 2023. The analysis will be done using the Python library `scikit-learn` in a Jupyter notebook.
 
 (c) Mia Muessig
