@@ -17,6 +17,6 @@ This repository should serve as a guide book for building classification models.
 4) Validation
     * Cross-Validation
 
-As an illustrative example we will use the famous data set of [Boston housing price data](http://jse.amstat.org/v19n3/decock.pdf) collected by Dean De Cock. The analysis will be done using `scikit-learn` in a Jupyter notebook.
+As an illustrative example we will use the "Credit Card Fraud Detection" dataset published [here](https://www.kaggle.com/dsv/6492730), containing over 550.000 records of European cardholders in 2023. The analysis will be done using the Python library `scikit-learn` in a Jupyter notebook.
 
 (c) Mia Muessig
